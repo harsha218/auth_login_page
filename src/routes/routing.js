@@ -1,5 +1,5 @@
-const routing = express.Router();
 const express = require("express");
+const routing = express.Router();
 const service = require('../service/user');
 const User = require('../model/userClass')
 const nodemailer = require('nodemailer');
