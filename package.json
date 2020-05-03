@@ -1,0 +1,27 @@
+{
+  "name": "auth_login_page",
+  "version": "1.0.0",
+  "description": "Simple login page with mail and mobile authentication bulit in node.js",
+  "main": "dummy.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.11",
+    "nodemailer": "^6.4.6",
+    "speakeasy": "^2.0.0",
+    "twilio": "^3.43.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsha218/auth_login_page.git"
+  },
+  "author": "Chinta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsha218/auth_login_page/issues"
+  },
+  "homepage": "https://github.com/harsha218/auth_login_page#readme"
+}
