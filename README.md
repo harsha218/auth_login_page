@@ -22,8 +22,11 @@ I have only created 4 routes in this project.
     Eg: { "userMobile" : "+91**********", "token" : "043602" }
 
 -Assumed procedure is the user selects mail or mobile as sign-up method and enters the mail/mobileNo which is given to either 1 or 2 routes according to what user selected.
+
 -If the enter details is correct user will get an OTP to mail/mobile.
+
 -When user enters the OTP in the web-application, route 3 or 4 is used which verifies whether the OTP is correct and not expired.
+
 -The OTP will be alive for 90 sec.
 
 #Note
