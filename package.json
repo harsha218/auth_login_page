@@ -4,7 +4,7 @@
   "description": "Simple login page with mail and mobile authentication bulit in node.js",
   "main": "dummy.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.11",
     "nodemailer": "^6.4.6",
     "speakeasy": "^2.0.0",
